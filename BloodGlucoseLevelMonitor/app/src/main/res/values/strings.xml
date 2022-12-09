@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Blood Glucose Level Monitor</string>
+    <string name="fasting">Fasting:</string>
+    <string name="breakfast">Breakfast:</string>
+    <string name="lunch">Lunch:</string>
+    <string name="dinner">Dinner:</string>
+    <string name="clear">Clear</string>
+    <string name="history">History</string>
+    <string name="num_only">Number only!</string>
+    <string name="new_glucose">New Glucose</string>
+    <string name="delete_glucose">Delete Glucose</string>
+    <string name="send_report">Send Report</string>
+    <string name="glucose_report_subject">Glucose Report</string>
+    <string name="glucose_report">Date is %1$s. Fasting: %2$s, Breakfast: %3$s, Lunch: %4$s, Dinner: %5$s, and %6$s.</string>
+</resources>
